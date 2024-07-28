@@ -1,0 +1,73 @@
+{
+    "A_star.py": null,
+    "bfs.py": null,
+    "README.md": null,
+    ".git": {
+        "config": null,
+        "description": null,
+        "HEAD": null,
+        "index": null,
+        "packed-refs": null,
+        "hooks": {
+            "applypatch-msg.sample": null,
+            "commit-msg.sample": null,
+            "fsmonitor-watchman.sample": null,
+            "post-update.sample": null,
+            "pre-applypatch.sample": null,
+            "pre-commit.sample": null,
+            "pre-merge-commit.sample": null,
+            "pre-push.sample": null,
+            "pre-rebase.sample": null,
+            "pre-receive.sample": null,
+            "prepare-commit-msg.sample": null,
+            "push-to-checkout.sample": null,
+            "sendemail-validate.sample": null,
+            "update.sample": null
+        },
+        "info": {
+            "exclude": null
+        },
+        "logs": {
+            "HEAD": null,
+            "refs": {
+                "heads": {
+                    "master": null
+                },
+                "remotes": {
+                    "origin": {
+                        "HEAD": null
+                    }
+                }
+            }
+        },
+        "objects": {
+            "info": {},
+            "pack": {
+                "pack-e6a3f212f01ef39e49545ac5b68bd027bd5d42be.idx": null,
+                "pack-e6a3f212f01ef39e49545ac5b68bd027bd5d42be.pack": null,
+                "pack-e6a3f212f01ef39e49545ac5b68bd027bd5d42be.rev": null
+            }
+        },
+        "refs": {
+            "heads": {
+                "master": null
+            },
+            "remotes": {
+                "origin": {
+                    "HEAD": null
+                }
+            },
+            "tags": {}
+        }
+    },
+    ".idea": {
+        "misc.xml": null,
+        "modules.xml": null,
+        "pathfinding-visualizer.iml": null,
+        "vcs.xml": null,
+        "workspace.xml": null,
+        "inspectionProfiles": {
+            "profiles_settings.xml": null
+        }
+    }
+}

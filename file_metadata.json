@@ -1,0 +1,150 @@
+{
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\A_star.py": {
+        "size": 6738,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\bfs.py": {
+        "size": 6325,
+        "last_modified": 1722148586.2027287
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\README.md": {
+        "size": 1142,
+        "last_modified": 1722148586.2027287
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\config": {
+        "size": 329,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\description": {
+        "size": 73,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\HEAD": {
+        "size": 23,
+        "last_modified": 1722148586.182956
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\index": {
+        "size": 890,
+        "last_modified": 1722148586.2027287
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\packed-refs": {
+        "size": 114,
+        "last_modified": 1722148586.182956
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\applypatch-msg.sample": {
+        "size": 478,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\commit-msg.sample": {
+        "size": 896,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\fsmonitor-watchman.sample": {
+        "size": 4726,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\post-update.sample": {
+        "size": 189,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\pre-applypatch.sample": {
+        "size": 424,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\pre-commit.sample": {
+        "size": 1649,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\pre-merge-commit.sample": {
+        "size": 416,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\pre-push.sample": {
+        "size": 1374,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\pre-rebase.sample": {
+        "size": 4898,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\pre-receive.sample": {
+        "size": 544,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\prepare-commit-msg.sample": {
+        "size": 1492,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\push-to-checkout.sample": {
+        "size": 2783,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\sendemail-validate.sample": {
+        "size": 2308,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\hooks\\update.sample": {
+        "size": 3650,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\info\\exclude": {
+        "size": 240,
+        "last_modified": 1722148584.9131205
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\logs\\HEAD": {
+        "size": 210,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\logs\\refs\\heads\\master": {
+        "size": 210,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\logs\\refs\\remotes\\origin\\HEAD": {
+        "size": 210,
+        "last_modified": 1722148586.182956
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\objects\\pack\\pack-e6a3f212f01ef39e49545ac5b68bd027bd5d42be.idx": {
+        "size": 1688,
+        "last_modified": 1722148586.133005
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\objects\\pack\\pack-e6a3f212f01ef39e49545ac5b68bd027bd5d42be.pack": {
+        "size": 6902,
+        "last_modified": 1722148586.133005
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\objects\\pack\\pack-e6a3f212f01ef39e49545ac5b68bd027bd5d42be.rev": {
+        "size": 140,
+        "last_modified": 1722148586.133005
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\refs\\heads\\master": {
+        "size": 41,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.git\\refs\\remotes\\origin\\HEAD": {
+        "size": 32,
+        "last_modified": 1722148586.182956
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.idea\\misc.xml": {
+        "size": 188,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.idea\\modules.xml": {
+        "size": 303,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.idea\\pathfinding-visualizer.iml": {
+        "size": 291,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.idea\\vcs.xml": {
+        "size": 185,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.idea\\workspace.xml": {
+        "size": 2420,
+        "last_modified": 1722148586.1930423
+    },
+    "C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer\\.idea\\inspectionProfiles\\profiles_settings.xml": {
+        "size": 179,
+        "last_modified": 1722148586.1930423
+    }
+}

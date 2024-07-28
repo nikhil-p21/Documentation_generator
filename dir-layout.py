@@ -29,9 +29,12 @@ def load_file_structure(file_path):
     with open(file_path, 'r') as f:
         return json.load(f)
     
+def get_file_metadata(file_path):
+    stats = os.stat(file_path)
+    return stats
 
 if __name__ == "__main__":
-    directory_path = ''
+    directory_path = 'C:/Users/user/Temp-nik/cloned_repos/pathfinding-algorithm-visualizer'
     file_structure = get_file_structure(directory_path)
     save_file_structure(file_structure, 'file_structure.json')
 
